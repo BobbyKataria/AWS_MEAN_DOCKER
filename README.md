@@ -1,1 +1,1 @@
-# AWS_MEAN_DOCKER
+# kubernetes-MEAN
